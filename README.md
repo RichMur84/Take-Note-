@@ -34,7 +34,7 @@ Used to keep track of a lot of information, it's easy to forget or be unable to 
 
 ## Contribution Guidelines
 
-Any Idead and if you  wish to add please contact github and wait for your push to be pulled also contact me at my email.
+Any Idias and if you  wish to add please add to my github and wait for your push to be pulled also contact me at my email.
 
 ## Test Instructions
 
